@@ -62,9 +62,9 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"  align="center">
-    <img src="https://streak-stats.demolab.com?user=logan12344&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" />
+    <img src="https://streak-stats.demolab.com?user=logan12344&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" />
   </a>
   <a href="https://github-readme-stats.vercel.app" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logan12344&theme=panda" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logan12344&hide_border=true&theme=aura" align="center" />
   </a>
 </div>
