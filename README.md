@@ -2,14 +2,14 @@
 
 ### Glad to see you here!
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="350" width="475" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Connect with me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavlo-horbatiuk-301188164/)
 
 ### Languages and Tools:
 
-<table width="320px">
+<table width="480px">
   <tbody>
     <tr valign="top">
       <td width="80px" align="center">
@@ -25,6 +25,10 @@
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       </td>
       <td width="80px" align="center">
+        <span><strong>JS</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      </td>
+      <td width="80px" align="center">
         <span><strong>Python</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       </td>
@@ -34,6 +38,10 @@
       </td>
     </tr>
     <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Node.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      </td>
       <td width="80px" align="center">
         <span><strong>React</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
