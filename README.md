@@ -28,6 +28,8 @@
         <span><strong>JS</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="80px" align="center">
         <span><strong>Python</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -36,8 +38,6 @@
         <span><strong>Typescript</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="80px" align="center">
         <span><strong>Node.js</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -46,7 +46,9 @@
         <span><strong>React</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
-        <td width="80px" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
         <span><strong>git</strong></span><br>
       <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
       </td>
