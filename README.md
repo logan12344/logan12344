@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logan12344&label=Profile%20views&color=0e75b6&style=flat-square" alt="logan12344" /> </p>
 
-- 🔭 I’m currently working on **Scads, SeqrMe**
+- 🔭 I’m currently working on **Scads**
 
 - 🌱 I’m currently learning **React, Python**
 
